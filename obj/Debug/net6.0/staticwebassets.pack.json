@@ -1,0 +1,633 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\sonia\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentFiles\\any\\net6.0\\wwwroot\\noty.js",
+      "PackagePath": "staticwebassets\\noty.js"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentFiles\\any\\net6.0\\wwwroot\\toastr.js",
+      "PackagePath": "staticwebassets\\toastr.js"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\StreamLineServices.bundle.scp.css",
+      "PackagePath": "staticwebassets\\StreamLineServices.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\css\\all-fontawesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\all-fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\css\\magnific-popup.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\magnific-popup.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\about\\01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\blog\\01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\blog\\02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\blog\\03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\blog\\author.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\author.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\blog\\bs-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\bs-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\blog\\bs-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\bs-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\blog\\bs-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\bs-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\blog\\com-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\com-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\blog\\com-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\com-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\blog\\com-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\com-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\blog\\single.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\single.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\breadcrumb\\01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\breadcrumb\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\coming-soon\\01 (1).jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\coming-soon\\01 (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\coming-soon\\01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\coming-soon\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\feature\\01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\feature\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\find-location\\find-location.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\find-location\\find-location.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\icons\\branch.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\branch.svg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\icons\\broadband.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\broadband.svg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\icons\\business-internet.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\business-internet.svg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\icons\\cable-tv-2.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\cable-tv-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\icons\\cable-tv.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\cable-tv.svg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\icons\\connection.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\connection.svg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\icons\\devices.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\devices.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\icons\\experience.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\experience.svg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\icons\\happy.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\happy.svg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\icons\\home-phone-2.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\home-phone-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\icons\\install.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\install.svg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\icons\\quality.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\quality.svg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\icons\\satelite.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\satelite.svg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\icons\\staff.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\staff.svg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\icons\\streaming.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\streaming.svg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\icons\\support.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\support.svg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\icons\\techsupport.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\techsupport.png"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\movie\\01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\movie\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\movie\\02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\movie\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\movie\\03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\movie\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\movie\\04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\movie\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\movie\\05.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\movie\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\movie\\06.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\movie\\06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\movie\\07.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\movie\\07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\movie\\08.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\movie\\08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\movie\\09.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\movie\\09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\partner\\01.png",
+      "PackagePath": "staticwebassets\\assets\\img\\partner\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\service\\01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\service\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\service\\02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\service\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\service\\single.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\service\\single.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\shop\\01.png",
+      "PackagePath": "staticwebassets\\assets\\img\\shop\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\shop\\02.png",
+      "PackagePath": "staticwebassets\\assets\\img\\shop\\02.png"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\shop\\03.png",
+      "PackagePath": "staticwebassets\\assets\\img\\shop\\03.png"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\shop\\04.png",
+      "PackagePath": "staticwebassets\\assets\\img\\shop\\04.png"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\shop\\05.png",
+      "PackagePath": "staticwebassets\\assets\\img\\shop\\05.png"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\shop\\06.png",
+      "PackagePath": "staticwebassets\\assets\\img\\shop\\06.png"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\shop\\07.png",
+      "PackagePath": "staticwebassets\\assets\\img\\shop\\07.png"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\shop\\08.png",
+      "PackagePath": "staticwebassets\\assets\\img\\shop\\08.png"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\shop\\09.png",
+      "PackagePath": "staticwebassets\\assets\\img\\shop\\09.png"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\slider\\slider-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\slider-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\slider\\slider-2.avif",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\slider-2.avif"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\slider\\slider-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\slider-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\team\\01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\team\\02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\team\\03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\team\\04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\testimonial\\01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\testimonial\\02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\testimonial\\03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\testimonial\\04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\testimonial\\bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\img\\video\\01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\video\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\js\\counter-up.js",
+      "PackagePath": "staticwebassets\\assets\\js\\counter-up.js"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\js\\email-decode.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\email-decode.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\js\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\js\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\js\\jquery-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-3.6.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\js\\jquery.appear.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.appear.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\js\\jquery.easing.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\js\\masonry.pkgd.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\masonry.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\js\\modernizr.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\modernizr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\assets\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sonia\\Downloads\\StreamLineServices\\StreamLineServices\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.StreamLineServices.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.StreamLineServices.props",
+      "PackagePath": "build\\StreamLineServices.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.StreamLineServices.props",
+      "PackagePath": "buildMultiTargeting\\StreamLineServices.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.StreamLineServices.props",
+      "PackagePath": "buildTransitive\\StreamLineServices.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

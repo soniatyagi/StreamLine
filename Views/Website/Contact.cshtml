@@ -1,0 +1,134 @@
+﻿@model StreamLineServices.Models.SendEmail
+
+@{
+    ViewData["Title"] = "Contact";
+}
+
+    <main class="main">
+
+        <div class="site-breadcrumb" style="background: url(../assets/img/breadcrumb/01.jpg)">
+            <div class="container">
+                <h2 class="breadcrumb-title">Contact Us</h2>
+                <ul class="breadcrumb-menu">
+                <li><a href="~/Website/Index">Home</a></li>
+                    <li class="active">Contact Us</li>
+                </ul>
+            </div>
+        </div>
+
+
+        <div class="contact-area py-120">
+            <div class="container">
+                <div class="contact-wrapper">
+                    <div class="row">
+                        <div class="col-lg-4">
+                            <div class="contact-content">
+                                <div class="contact-info">
+                                    <div class="contact-info-icon">
+                                    <i class="fa fa-map-marker"></i>
+                                </div>
+                                    <div class="contact-info-content">
+                                        <h5>Office Address</h5>
+                                        <p>250 West 57th Street New York, NY 10019</p>
+                                    </div>
+                                </div>
+                                <div class="contact-info">
+                                    <div class="contact-info-icon">
+                                        <i class="fa fa-phone"></i>
+                                    </div>
+                                    <div class="contact-info-content">
+                                        <h5>Call Us</h5>
+                                        <p>+1(315)-215-1287</p>
+                                    </div>
+                                </div>
+                                <div class="contact-info">
+                                    <div class="contact-info-icon">
+                                        <i class="fa fa-envelope"></i>
+                                    </div>
+                                    <div class="contact-info-content">
+                                        <h5>Email Us</h5>
+                                        <p><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="4a23242c250a2f322b273a262f64292527">[email&#160;protected]</a></p>
+                                    </div>
+                                </div>
+                                <div class="contact-info">
+                                    <div class="contact-info-icon">
+                                        <i class="fa fa-clock"></i>
+                                    </div>
+                                    <div class="contact-info-content">
+                                        <h5>Office Open</h5>
+                                        <p>Mon -Sat (11AM - 8PM)</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-8 align-self-center">
+                            <div class="contact-form">
+                                <div class="contact-form-header">
+                                    <h2>Get In Touch</h2>
+                                    <p>We value your connection and look forward to hearing from you! Whether you have questions, feedback, or would like to explore potential collaborations, our team is here to assist. Feel free to reach out through the contact form below or connect with us via the provided contact details. Your inquiries are important to us, and we strive to respond promptly to ensure your experience with us is seamless. Let's start a conversation and work together to achieve your goals. </p>
+                                </div>
+                            <form method="post" id="contact-form">
+                                    <div class="row">
+                                        <div class="col-md-6">
+                                            <div class="form-group">
+                                            <input type="text" class="form-control clearable-field" placeholder="Your Name" required asp-for="Name">
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="form-group">
+                                            <input type="email" class="form-control clearable-field" placeholder="Your Email" required asp-for="Email">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                    <input type="tel" class="form-control clearable-field" oninput="validateNumericInput(this)" placeholder="Your Mobile" required asp-for="Mobile">
+                                    </div>
+                                    <div class="form-group">
+                                    <textarea cols="30" rows="5" class="form-control clearable-field" placeholder="Write Your Message" asp-for="Message"></textarea>
+                                    </div>
+                                    <button type="submit" class="theme-btn" asp-controller="Website" asp-action="Submit">
+                                        <i class="fa fa-paper-plane"></i> Send
+                                        Message
+                                    </button>
+                                    <div class="col-md-12 mt-3">
+                                        <div class="form-messege text-success"></div>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="contact-map">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d96708.34194156103!2d-74.03927096447748!3d40.759040329405195!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4a01c8df6fb3cb8!2sSolomon%20R.%20Guggenheim%20Museum!5e0!3m2!1sen!2sbd!4v1619410634508!5m2!1sen!2s" style="border:0;" allowfullscreen loading="lazy"></iframe>
+        </div>
+    </main>
+
+<script>
+
+function validateNumericInput(inputField) {
+    // Remove non-numeric characters
+    inputField.value = inputField.value.replace(/\D/g, '');
+
+    // Limit to a maximum of 10 digits
+    if (inputField.value.length > 10) {
+        inputField.value = inputField.value.slice(0, 10);
+    }
+}
+
+    document.addEventListener("DOMContentLoaded", function () {
+        // Clear form fields by class
+        var formFields = document.getElementsByClassName("clearable-field");
+
+        for (var i = 0; i < formFields.length; i++) {
+            formFields[i].value = '';
+        }
+    });
+
+
+</script>
+
+
